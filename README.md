@@ -17,7 +17,7 @@ Zuzapp thrives on the collective spirit of individuals who share Zuzalu vision, 
 
 **If you are interested in building Zuzapp with your expertise and interests, join the operation and shape the Zuzapp together through** https://www.guilded.gg/r/zzME2L6mXR?i=4ElJNM1A .
 
-## For more info, please:
+## For more info:
 - Stay tuned with [Zuzalu Townhall](https://zuzalu.city/full-program) and [Newsletter](https://zuzalu.notion.site/Zuzalu-Newsletters-ad07a651a2414c0b9728ce0837492d82) for more updates!
 - Follow Zuzalu Software (Zuzapp) Product [Design](https://www.figma.com/file/OflHeW74E7e90FHxXKJ1w7/Zuzapp?type=whiteboard&node-id=0-1&t=tQ1Cem0bi8WyRxyI-0) & [Update](https://www.craft.me/s/75SOUVY42yfU3q).
 - Follow [Zuzaluorg Repo](https://github.com/zuzaluorg/zuzalu).
